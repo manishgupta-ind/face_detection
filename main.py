@@ -5,8 +5,8 @@ import time
 import os
 from zipfile import ZipFile
 
-sns.set_theme(style="darkgrid")
-sns.set()
+# sns.set_theme(style="darkgrid")
+# sns.set()
 st.set_page_config(page_title='Face Detection using AI Technique', page_icon='🖖')
 
 st.title('Face Detection in Image Files')

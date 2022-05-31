@@ -3,7 +3,6 @@ import streamlit as st
 import matplotlib.pyplot as plt
 import time
 import os
-import seaborn as sns
 from zipfile import ZipFile
 
 sns.set_theme(style="darkgrid")
